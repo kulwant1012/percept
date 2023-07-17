@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MOBILE-APPLICATION &#8211; Percept Systems</title>
+	<atom:link href="https://www.perceptsystems.com/project-category/mobile-application/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.perceptsystems.com</link>
+	<description>Software Development Company</description>
+	<lastBuildDate>Mon, 17 Feb 2020 12:14:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.14</generator>
+	<item>
+		<title>Online Contest</title>
+		<link>https://www.perceptsystems.com/project/online-contest/</link>
+				<pubDate>Mon, 24 Dec 2018 11:33:09 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">https://www.perceptsystems.com/?post_type=dt_portfolio&#038;p=4710</guid>
+				<description><![CDATA[<p>The post <a rel="nofollow" href="https://www.perceptsystems.com/project/online-contest/">Online Contest</a> appeared first on <a rel="nofollow" href="https://www.perceptsystems.com">Percept Systems</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://www.perceptsystems.com/project/online-contest/">Online Contest</a> appeared first on <a rel="nofollow" href="https://www.perceptsystems.com">Percept Systems</a>.</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Spoutcoin</title>
+		<link>https://www.perceptsystems.com/project/spoutcoin/</link>
+				<pubDate>Sat, 17 Nov 2018 08:50:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://ps.blockchainpeer.com/?post_type=dt_portfolio&#038;p=4402</guid>
+				<description><![CDATA[<p>The post <a rel="nofollow" href="https://www.perceptsystems.com/project/spoutcoin/">Spoutcoin</a> appeared first on <a rel="nofollow" href="https://www.perceptsystems.com">Percept Systems</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://www.perceptsystems.com/project/spoutcoin/">Spoutcoin</a> appeared first on <a rel="nofollow" href="https://www.perceptsystems.com">Percept Systems</a>.</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Blockglobal</title>
+		<link>https://www.perceptsystems.com/project/blockglobal-3/</link>
+				<pubDate>Sat, 17 Nov 2018 08:40:14 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://ps.blockchainpeer.com/?post_type=dt_portfolio&#038;p=4399</guid>
+				<description><![CDATA[<p>The post <a rel="nofollow" href="https://www.perceptsystems.com/project/blockglobal-3/">Blockglobal</a> appeared first on <a rel="nofollow" href="https://www.perceptsystems.com">Percept Systems</a>.</p>
+]]></description>
+								<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://www.perceptsystems.com/project/blockglobal-3/">Blockglobal</a> appeared first on <a rel="nofollow" href="https://www.perceptsystems.com">Percept Systems</a>.</p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>
