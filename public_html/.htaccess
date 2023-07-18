@@ -21,7 +21,7 @@ RewriteCond %{HTTP:Cookie} !comment_author_
 RewriteCond %{HTTP:Cookie} !safirmobilswitcher=mobil
 RewriteCond %{HTTP:Profile} !^[a-z0-9\"]+ [NC]
 RewriteCond %{DOCUMENT_ROOT}/wp-content/cache/all/$1/index.html -f [or]
-RewriteCond /home/965616.cloudwaysapps.com/ahjtqsthut/public_html/wp-content/cache/all/$1/index.html -f
+RewriteCond /home/https://perceptsystems-bf6b9a55f718.herokuapp.com/ahjtqsthut/public_html/wp-content/cache/all/$1/index.html -f
 RewriteRule ^(.*) "/wp-content/cache/all/$1/index.html" [L]
 </IfModule>
 <FilesMatch "index\.(html|htm)$">
